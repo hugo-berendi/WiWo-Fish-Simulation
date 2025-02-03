@@ -1,6 +1,6 @@
 # Science Week "Moving Programs"
 
-In the time of one week we have been studying the schooling behavior of and how we can implement it in code. We have come to the conclusion that **Boids** are the best way of doing what we wanted.
+Over the course of one week we have been studying the schooling behavior of and how we can implement it in code. We have come to the conclusion that **Boids** are the best way of doing what we wanted.
 
 ## Boids
 
@@ -10,5 +10,5 @@ In the time of one week we have been studying the schooling behavior of and how 
 
 There are three rules that need to be applied to the Boids to achive the wanted flocking behavior.
 The first is **Separation** which defines what distance the Boids should have from each other.
-The next is **Alignment**, it aligns the Boids so they all go into the same direction.
-And the last is **Cohesion** this defines a center to the flock of Boids to which they get drawn to.
+Next is **Alignment**, it aligns the Boids to the same direction.
+Last but not least is **Cohesion** this defines a center to the flock of Boids to which they get drawn to.
